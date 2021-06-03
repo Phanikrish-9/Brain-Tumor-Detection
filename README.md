@@ -5,8 +5,8 @@ In clinical diagnosis, checking brain tumor among a large amount of MRI images u
 
 ## Our targets:
 
-    * automatically detect if tumor tissue appears in the MRI image
-    * automatical brain tumor segmentation in MRI image
+ * automatically detect if tumor tissue appears in the MRI image
+ * automatical brain tumor segmentation in MRI image
 
 # Requirements
 * NumPy >= 1.12.0
