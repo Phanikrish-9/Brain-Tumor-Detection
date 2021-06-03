@@ -12,3 +12,5 @@ In clinical diagnosis, checking brain tumor among a large amount of MRI images u
 * NumPy >= 1.12.0
 * keras >= 2.1.0
 * TensorFlow >= 1.4 (the project hasn't been tested in other version)
+# File Description
+* Brain tumr.py includes all parameters.
