@@ -13,4 +13,10 @@ In clinical diagnosis, checking brain tumor among a large amount of MRI images u
 * keras >= 2.1.0
 * TensorFlow >= 1.4 (the project hasn't been tested in other version)
 ## File Description
-* ***Brain tumr.py*** includes all parameters.
+* ***Brain tumor.py*** includes all parameters.
+* ***Brain tumor.ipynb*** includes functions regarding loading, batching data, CNN model architecture and log files saving.
+## Usage
+ * Step1. adjust parameters in Brain tumor.py including data filenames, training parameters.
+ * Step2. adjust model parameters in Brain tumor.ipynb
+ * Step3. start training
+ * Step4. inference and demo
