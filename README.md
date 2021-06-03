@@ -3,10 +3,10 @@ The project is for a research of Medical engineering at Hospital of National Tai
 # Why this project?
 In clinical diagnosis, checking brain tumor among a large amount of MRI images usually takes doctors much time. For example, in samples of this project, a patient has about 200 MRI images, but tumor tissues only appears in 15 images. Therefore, this project aims to automatically detect tumor tissues in large amount of MRI image data.
 
-Our targets:
+## Our targets:
 
-automatically detect if tumor tissue appears in the MRI image
-automatical brain tumor segmentation in MRI image
+    * automatically detect if tumor tissue appears in the MRI image
+    * automatical brain tumor segmentation in MRI image
 
 # Requirements
 * NumPy >= 1.12.0
