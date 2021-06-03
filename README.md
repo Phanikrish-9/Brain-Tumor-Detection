@@ -9,8 +9,6 @@ automatically detect if tumor tissue appears in the MRI image
 automatical brain tumor segmentation in MRI image
 
 # Requirements
-NumPy >= 1.12.0
-
-keras >= 2.1.0
-
-TensorFlow >= 1.4 (the project hasn't been tested in other version)
+* NumPy >= 1.12.0
+* keras >= 2.1.0
+* TensorFlow >= 1.4 (the project hasn't been tested in other version)
